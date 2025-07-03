@@ -1,21 +1,34 @@
 Car Class, Grade(1-4)
 ARC Camaro, 4
-Caterham, 4
+Caterham 620R, 4
+Caterham Academy, 4
+Caterham Supersport, 4
+Caterham SuperLight, 4
 Copa Classic B, 4
 Copa Classic FL, 4
+Copa Fusca, 4
+Copa Montana, 3
+Copa Truck, 3
+Copa Uno, 4
+DPI, 1
 F3, 2
 Formula Inter, 3
 Formula Reiza, 1
 Formula Trainer, 4
+Formula Trainer Advanced, 4
 Formula Ultimate, 1
 Formula USA 2023, 1
 Formula USA Gen. 1, 1
 Formula USA Gen. 2, 1
 Formula USA Gen. 3, 1
-Formula V10, 1
+Formula V10 Gen. 1, 1
+Formula V10 Gen. 2, 1
+Formula Vee, 3
 G40 Cup, 4
 G55 Cup, 3
 German Group A, 3
+GT Open, 2
+GT1, 1
 GT3 Gen. 1, 2
 GT3 Gen. 2, 2
 GT4, 3
@@ -32,7 +45,10 @@ P3, 3
 P4, 3
 Porsche Cup, 3
 Sprint Race, 3
-Stock Car Brazil, 3
+Stock Car Brazil 2019, 3
+Stock Car Brazil 2020-2023 (Any), 3
+Stock Car Brazil 2024, 3
+Super Trofeo, 2
 Super V8, 3
 TSI Cup, 4
 GT3 + GT4, 2
@@ -40,7 +56,33 @@ LMDH + GT3, 1
 LMDH + LMP2 + GT3, 1
 LMP2 + GT3 + GT4, 1
 GT4 + GT5, 3
-Brazillian Endurance, 2
+P1 + P2 + P3 + P4 + GT3 + GT4, 2
 P3 + GT4, 3
 P3 + GT4 + GT5, 3
 Porsche Cup + GT4, 3
+GT4 + Sprint Race, 3
+Lancer Cup + MINI Cup, 3
+G55 Cup + G40 Cup, 3
+Hot Cars + Copa Fusca, 4
+DPI + GTE, 1
+Copa Classic B + Copa Classic FL + Copa Fusca + Hot Cars + Copa Uno, 4
+P1 + GT3, 2
+P1 + GT3 + GT4, 2
+P1 + P2 + P3 + P4, 2
+P2 + P3 + P4, 3
+P3 + P4, 3
+LMP2 + GTE + Porsche Cup, 1
+LMP2 + GT3 + Porsche Cup, 1
+GT3 + Porsche Cup, 2
+GT3 Gen. 1 + GT3 Gen. 2 + GTE, 2
+P1 + GT Open, 2
+GT3 + Super V8, 2
+P3 + P4 + GT4, 3
+P2 + Porsche Cup + GT4, 3
+Porsche Cup + Lancer Cup + MINI Cup, 3
+Sprint Race + Stock Car Brazil 2020-2023 (Any), 3
+GT4 + Stock Car Brazil 2019, 3
+GT5 + TSI Cup, 4
+G40 Cup + MINI Cup + Caterham Academy, 4
+Copa Fusca + Copa Classic B + Copa Uno, 4
+Copa Montana + G55 Cup + P4, 3

@@ -1,16 +1,18 @@
-import random
+import random, sys
 import pandas as pd
+
+# defaults
+carGrade = sys.maxsize
+trackGrade = sys.maxsize
 
 # csv files
 carlist = pd.read_csv('carlist.csv')
 tracklist = pd.read_csv('tracklist.csv')
 
 # picking a random car
-x = random.randrange(0, 44, 1)
+x = random.randrange(0, 86, 1)
 selectedClass = carlist.iloc[x, 0]
 carGrade = carlist.iloc[x, 1]
-
-trackGrade = 5
 
 # picking a random track
 while(trackGrade > carGrade):
